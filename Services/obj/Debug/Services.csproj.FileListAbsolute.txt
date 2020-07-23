@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\Services\bin\Debug\Services.dll
+C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\Services\bin\Debug\Services.pdb
+C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\Services\obj\Debug\Services.dll
+C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\Services\obj\Debug\Services.pdb

@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Data", "ElevenNo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Models", "ElevenNote.Models\ElevenNote.Models.csproj", "{927FC54B-48CC-4EDC-BD42-D6DA885EDFAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{729DF9B7-7D50-4513-B1D5-3440477FF295}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Services", "Services\ElevenNote.Services.csproj", "{729DF9B7-7D50-4513-B1D5-3440477FF295}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

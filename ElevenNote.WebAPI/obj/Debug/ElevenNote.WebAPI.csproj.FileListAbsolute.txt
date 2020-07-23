@@ -121,3 +121,4 @@ C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\ElevenNote.WebAPI\bin\Mi
 C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.csproj.CopyComplete
 C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.dll
 C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.pdb
+C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\ElevenNote.WebAPI\bin\Services.dll.config

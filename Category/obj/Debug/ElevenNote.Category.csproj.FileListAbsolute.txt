@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\Category\bin\Debug\Category.dll
+C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\Category\bin\Debug\Category.pdb
+C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\Category\obj\Debug\ElevenNote.Category.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\Category\obj\Debug\ElevenNote.Category.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\Category\obj\Debug\Category.dll
+C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\Category\obj\Debug\Category.pdb

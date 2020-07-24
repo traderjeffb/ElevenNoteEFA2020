@@ -33,6 +33,7 @@ namespace ElevenNote.Data
             return new ApplicationDbContext();
         }
         public DbSet<Note> Notes { get; set; } //<--- Add this
+        public DbSet<Category> Category { get; set; }
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder
@@ -44,6 +45,7 @@ namespace ElevenNote.Data
                 .Add(new IdentityUserLoginConfiguration())
                 .Add(new IdentityUserRoleConfiguration());
         }
+
     }
 
     public class IdentityUserLoginConfiguration : EntityTypeConfiguration<IdentityUserLogin>

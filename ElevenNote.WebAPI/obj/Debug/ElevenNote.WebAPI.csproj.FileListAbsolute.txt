@@ -122,3 +122,5 @@ C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\ElevenNote.WebAPI\obj\De
 C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.dll
 C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.pdb
 C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\ElevenNote.WebAPI\bin\Services.dll.config
+C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\ElevenNote.WebAPI\bin\Category.dll
+C:\ElevenFiftyProjects\Blue Badge\ElevenNote\ElevenNote\ElevenNote.WebAPI\bin\Category.pdb
